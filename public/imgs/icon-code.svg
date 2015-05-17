@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" xmlns="http://www.w3.org/2000/svg" height="180px" width="180px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 180 180">
+ <g id="Page-1" fill-rule="evenodd" sketch:type="MSPage" fill="none">
+  <g id="180---iPhone-6-Plus" sketch:type="MSArtboardGroup">
+   <g id="Line-+-Line-+-Line-Copy-+-Line-+-Line-Copy-2" transform="translate(6 36)" sketch:type="MSLayerGroup">
+    <path id="Line" d="m97.093 21.578l-24.254 70.682" sketch:type="MSShapeGroup" stroke="#fff" stroke-linecap="square" stroke-width="4"/>
+    <g id="Line-+-Line-Copy-3" sketch:type="MSShapeGroup" fill="#fff" transform="translate(56.05 56.165) scale(-1 1) rotate(225) translate(-40 -39)">
+     <path id="Line" d="m2.6759 78h-2l0.00002-4v-69.7-4.0005l8-0.00003v4 65.7h67.074 4v8h-4-71.074-2.0001z"/>
+    </g>
+    <g id="Line-+-Line-Copy-4" sketch:type="MSShapeGroup" fill="#fff" transform="translate(112.56 56.165) rotate(225) translate(-39.995 -39)">
+     <path id="Line" d="m2.6759 78h-2l0.00002-4v-69.7-4.0005l8-0.00003v4 65.7h67.074 4v8h-4-71.074-2.0001z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

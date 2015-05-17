@@ -45,7 +45,7 @@ gulp.task('less', function() {
 				path.join(__dirname, 'styles', 'partials')
 			]
 		}))
-		.pipe(sourcemaps.write())			// create the sourcemaps
+		//.pipe(sourcemaps.write())			// create the sourcemaps
 		.pipe(gulp.dest('./public/styles')) 	// write css file
 		.pipe(reload({ stream:true })); 	// reload the css in the browser
 });
